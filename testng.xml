@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/ABDUL AZIS/Documents/BootCamp SQA 6/abdulazisdayeightteen/src/test/java/com/abdulazisposeightteen/TestAddToWishlist.java">
+        <classes/>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/ABDUL AZIS/Documents/BootCamp SQA 6/abdulazisdayeightteen/src/test/java/com/abdulazisposeightteen/TestSearch.java">
+        <classes/>
+    </test>
+</suite>
